@@ -1,5 +1,11 @@
 # Rock-Paper-Scissors
  
+ Technologies:
+
+      -HTML
+      -CSS
+      -JavaScript
+
 Steps to see it running:
 
       1.download zipped folder   
